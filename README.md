@@ -1,6 +1,6 @@
 # 🔐 Cifra de César em Portugol - Aula de Programação
 
-Este repositório contém os códigos-fonte utilizados na videoaula “[Cifra de César em Portugol: Aula de Programação Completa](https://www.youtube.com/link-vai-aqui)” publicada no YouTube por Leandro Júnior (@prof.leandrojr).
+Este repositório contém os códigos-fonte utilizados na videoaula “[Cifra de César em Portugol: Aula de Programação Completa](https://youtu.be/zj2-KweIcYI)” publicada no YouTube por Leandro Júnior (@prof.leandrojr).
 
 A proposta da aula é ensinar **lógica de programação** de forma leve, prática e criativa, usando uma técnica clássica de criptografia: **a Cifra de César**.
 
@@ -26,7 +26,7 @@ A proposta da aula é ensinar **lógica de programação** de forma leve, práti
 
 ## 📺 Videoaula completa
 
-👉 [Assista no YouTube](https://www.youtube.com/seulink)
+👉 [Assista no YouTube](https://youtu.be/zj2-KweIcYI)
 
 ---
 
